@@ -1,0 +1,55 @@
+.card-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px 0; 
+    box-shadow: -1px 2px 17px -5px rgba(34, 60, 80, 0.2);
+    background: #fff;
+    border-radius: 20px;
+    min-width:  33%;
+    min-height: 200px;
+    &__img {
+    min-width: 40px;
+    height: 40px;
+    object-fit: cover;
+    }
+    .title {
+        font-size: 10px;
+    }
+    
+}
+
+.card-content {
+    .card-wrap__title {
+        font-weight: bold;
+    }
+}
+
+.actions-wrap {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    .watch-wrap {
+        display: flex;
+        margin-right: 50px;
+        align-items: center;
+        color: grey
+    }
+    .watch-wrap1 {
+        display: flex;
+        padding-left: 20px;
+        align-items: center;
+        color: grey;
+        padding-left: 100px
+    }
+    .icon {
+        display: block;
+        width: 20px;
+        height: 20px;
+        margin-right: 3px;
+    }
+}
+
+
+

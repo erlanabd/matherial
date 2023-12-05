@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    .title  {
+        font-weight: bold;
+        font-size: 28px;
+    }
+    .button {
+        background-color: #6466F2;
+        color: #fff;
+        border-radius: 5px;
+        text-transform: capitalize;
+    }
+}

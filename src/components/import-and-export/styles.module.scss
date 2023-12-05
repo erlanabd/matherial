@@ -1,0 +1,24 @@
+.import-export-wrap {
+    display: flex;
+    .import-wrap {
+        display: flex;
+        margin-right: 30px;
+        padding-left: 5px;
+        .icon {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            margin-right: 5px;
+            &.import-icon {
+                background: url('../../assets/icon/import-icon.svg') center center / contain no-repeat;
+            }
+            &.export-icon {
+                background: url('../../assets/icon/export-icon.svg') center center / contain no-repeat;
+            }
+        }
+        .import-text {
+            font-weight: bold;
+            font-size: 14px;
+        }
+    }
+}
