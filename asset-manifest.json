@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-hw-10/static/css/main.f7669d50.css",
+    "main.js": "/react-hw-10/static/js/main.799e7c3c.js",
+    "static/media/slack-img.png": "/react-hw-10/static/media/slack-img.8c80a7888c050ff33ba8.png",
+    "static/media/lyft-logo.png": "/react-hw-10/static/media/lyft-logo.830597eaf4570aa75812.png",
+    "static/media/dropbox-img.svg.png": "/react-hw-10/static/media/dropbox-img.svg.25142630b248ac700ffa.png",
+    "static/media/squarespace-img.png": "/react-hw-10/static/media/squarespace-img.2073fb91c364daf5ed66.png",
+    "static/media/github-img.png": "/react-hw-10/static/media/github-img.5994b25b696bbc93b5d8.png",
+    "static/media/mediumcorp-img.jpeg": "/react-hw-10/static/media/mediumcorp-img.2d0827dab4e27925431a.jpeg",
+    "index.html": "/react-hw-10/index.html",
+    "static/media/export-icon.svg": "/react-hw-10/static/media/export-icon.1e44558055fba56e1348.svg",
+    "static/media/import-icon.svg": "/react-hw-10/static/media/import-icon.5571151f179c526fec5c.svg",
+    "main.f7669d50.css.map": "/react-hw-10/static/css/main.f7669d50.css.map",
+    "main.799e7c3c.js.map": "/react-hw-10/static/js/main.799e7c3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7669d50.css",
+    "static/js/main.799e7c3c.js"
+  ]
+}
